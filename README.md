@@ -1,2 +1,2 @@
-# projetos_arduino
-Repositório criado para armazenar todos os projetos de arduino.
+# Projetos_arduino
+Repositório criado para armazenar projetos de arduino.
